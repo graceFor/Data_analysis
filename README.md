@@ -1,5 +1,5 @@
 # Data_analysis
 
-- data 분석 공부
+- data 분석 study
 
-JupyterNotebook
+Colab
